@@ -10,7 +10,7 @@ This repo makes up phase one of the Golden Square project on the Makers bootcamp
 
 These objectives were achieved by working through a sequence of exercises and challenges over two weeks.
 
-My full list of repos for this project listed below:
+My full list of repos for this project are listed below:
 - [Phase one](https://github.com/atcq9876/golden-square-phase-one)
 - [Phase two](https://github.com/atcq9876/golden-square-phase-two)
 - [Phase three](https://github.com/atcq9876/golden-square-phase-three)
