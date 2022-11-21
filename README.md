@@ -12,10 +12,10 @@ These were achieved by working through a sequence of exercises and challenges ov
 
 See [here](https://github.com/makersacademy/golden-square) for full info on the Golden Square module.
 
-Phase one repo [here](https://github.com/atcq9876/golden-square-phase-one).
+My phase one repo [here](https://github.com/atcq9876/golden-square-phase-one).
 
-Phase two repo [here](https://github.com/atcq9876/golden-square-phase-two).
+My phase two repo [here](https://github.com/atcq9876/golden-square-phase-two).
 
-Phase three repo [here](https://github.com/atcq9876/golden-square-phase-three).
+My phase three repo [here](https://github.com/atcq9876/golden-square-phase-three).
 
-Phase four repo [here](https://github.com/atcq9876/golden-square-phase-four).
+My phase four repo [here](https://github.com/atcq9876/golden-square-phase-four).
