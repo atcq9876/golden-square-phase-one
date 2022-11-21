@@ -1,6 +1,6 @@
 # golden-square-phase-one
 
-In the Golden Square Makers module, the objectives were:
+In this Makers module, the objectives were:
 
 - Learn to test-drive programs with multiple classes.
 - Learn to break programs up into classes.
