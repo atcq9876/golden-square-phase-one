@@ -1,6 +1,6 @@
 # golden-square-phase-one
 
-This repo contains my solutions to phase one of the Golden Square project on the Makers bootcamp (weeks one and two). The objectives I achieved during this project were to:
+This repo contains my solutions to phase one of the Golden Square project on the Makers bootcamp (weeks one and two). The objectives I achieved during this project include:
 
 - Learn to test-drive programs with multiple classes.
 - Learn to break programs up into classes.
